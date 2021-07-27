@@ -1,4 +1,3 @@
 # test-runner
 
-new
-n
+new.
