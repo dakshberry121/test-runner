@@ -1,3 +1,3 @@
 # test-runner
 
-new.
+new token
